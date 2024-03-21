@@ -4,4 +4,3 @@ Siddarth
 Aman Gupta
 Isha Narang
 Anurag Upperwal
-Bigyan
